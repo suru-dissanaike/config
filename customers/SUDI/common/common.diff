@@ -1,8 +1,1 @@
 CONFIG_TARGET_CUSTOMER="SUDI"
-# CONFIG_BCM_OPEN is not set
-# CONFIG_BCM_ENDPOINT_MODULE is not set
-# CONFIG_BCM_USBSOUND_MODULES is not set
-# CONFIG_BCM_I2C is not set
-# CONFIG_BCM_BLUETOOTH is not set
-# CONFIG_PACKAGE_ice-client is not set
-
